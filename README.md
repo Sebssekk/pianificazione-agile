@@ -1,5 +1,6 @@
 # pianificazione-agile2.0
 Un semplice esempio di pianificazione Agile
 
-# Modifica dal main
-Questa modifica dovrebbe generare conflitti
+# Modifica 1
+Questa è solo una modifica demo
+
